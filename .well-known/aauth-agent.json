@@ -1,0 +1,6 @@
+{
+  "issuer": "https://sabariganesh.github.io",
+  "jwks_uri": "https://sabariganesh.github.io/.well-known/jwks.json",
+  "client_name": "sabariganesh",
+  "logo_uri": "https://avatars.githubusercontent.com/u/14999754?v=4"
+}

@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "alg": "ES256",
+      "crv": "P-256",
+      "kty": "EC",
+      "use": "sig",
+      "x": "YBcmQiHoCO9ApMpeIT81rhwdy3oL4Win7zBwD4NqOno",
+      "y": "vVUo-VP9LAloBxgU0IQk3r45eFwpOnoZwLD2tNUZYuw",
+      "kid": "2026-10-11_935",
+      "aauth": {
+        "device": "sabariganeshs-macbook-air",
+        "created": "2026-10-11"
+      }
+    }
+  ]
+}
